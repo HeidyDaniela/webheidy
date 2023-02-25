@@ -1,3 +1,8 @@
 body{
     background-color: rgb(245, 218, 161);
 }
+h1{
+    font-size: 5em;
+    color: orangered;
+    font-family: fantasy;   
+}
