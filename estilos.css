@@ -1,8 +1,9 @@
 body{
-    background-color: rgb(245, 218, 161);
+    background-color: rgb(0, 0, 0);
 }
 h1{
     font-size: 5em;
-    color: orangered;
-    font-family: fantasy;   
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: fantasy;
 }
